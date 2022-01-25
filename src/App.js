@@ -7,8 +7,7 @@ import { BrowserRouter } from 'react-router-dom';
 class App extends Component {
 
   render() {
-    return (
-      /*Use react router*/
+    return (      
       <BrowserRouter> 
         <div>
           <Main />
